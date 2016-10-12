@@ -20,7 +20,6 @@ class TapOutViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        self.tapOutButton.layer.cornerRadius = 10
         self.askingPrice.text = eventDetail["suggested_price"] as? String
         self.lowestPrice.text = eventDetail["suggested_price"] as? String
         

@@ -10,6 +10,8 @@ import UIKit
 
 class PasswordViewController: UIViewController {
 
+    @IBOutlet weak var textPassword: UITextField!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 

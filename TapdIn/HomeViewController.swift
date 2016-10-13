@@ -1,5 +1,5 @@
 //
-//  NameViewController.swift
+//  HomeViewController.swift
 //  TapdIn
 //
 //  Created by Blake Hudelson on 10/12/16.
@@ -8,13 +8,8 @@
 
 import UIKit
 
-class NameViewController: UIViewController {
+class HomeViewController: UIViewController {
 
-    @IBOutlet weak var textFirstName: UITextField!
-    @IBOutlet weak var textLastName: UITextField!
-    
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
 

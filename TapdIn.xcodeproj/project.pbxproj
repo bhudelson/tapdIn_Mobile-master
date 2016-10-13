@@ -18,6 +18,7 @@
 		9FA69C231DAED06C009F2DC4 /* EmailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA69C221DAED06C009F2DC4 /* EmailViewController.swift */; };
 		9FA69C251DAED09B009F2DC4 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA69C241DAED09B009F2DC4 /* SignupViewController.swift */; };
 		9FA69C271DAED0EA009F2DC4 /* PasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA69C261DAED0EA009F2DC4 /* PasswordViewController.swift */; };
+		9FA69C291DAF0C26009F2DC4 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA69C281DAF0C26009F2DC4 /* HomeViewController.swift */; };
 		E31146191DA28B44002B834E /* UIImageView+DownloadImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E31146181DA28B44002B834E /* UIImageView+DownloadImage.swift */; };
 		E36AF4B61DAA73B500EA5A29 /* TapOutQRViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E36AF4B51DAA73B500EA5A29 /* TapOutQRViewController.swift */; };
 		E3C5E8E61D8C2350002FBD07 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C5E8E51D8C2350002FBD07 /* AppDelegate.swift */; };
@@ -42,6 +43,7 @@
 		9FA69C221DAED06C009F2DC4 /* EmailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmailViewController.swift; sourceTree = "<group>"; };
 		9FA69C241DAED09B009F2DC4 /* SignupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
 		9FA69C261DAED0EA009F2DC4 /* PasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PasswordViewController.swift; sourceTree = "<group>"; };
+		9FA69C281DAF0C26009F2DC4 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		E31146181DA28B44002B834E /* UIImageView+DownloadImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImageView+DownloadImage.swift"; sourceTree = "<group>"; };
 		E35E8F461DA9B917002B0F44 /* TapdIn.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TapdIn.entitlements; sourceTree = "<group>"; };
 		E36AF4B51DAA73B500EA5A29 /* TapOutQRViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TapOutQRViewController.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 				38796CE41D8C5EEA00934E96 /* RESTAccess.swift */,
 				E3C5E8E51D8C2350002FBD07 /* AppDelegate.swift */,
 				E3C5E8E91D8C2350002FBD07 /* Main.storyboard */,
+				9FA69C281DAF0C26009F2DC4 /* HomeViewController.swift */,
 				9FA69C261DAED0EA009F2DC4 /* PasswordViewController.swift */,
 				9FA69C241DAED09B009F2DC4 /* SignupViewController.swift */,
 				9FA69C221DAED06C009F2DC4 /* EmailViewController.swift */,
@@ -203,6 +206,7 @@
 				38884C221D90610E0010242B /* EventDetailViewController.swift in Sources */,
 				9FA69C271DAED0EA009F2DC4 /* PasswordViewController.swift in Sources */,
 				38884C201D9025D90010242B /* EventTableViewCell.swift in Sources */,
+				9FA69C291DAF0C26009F2DC4 /* HomeViewController.swift in Sources */,
 				38796CE51D8C5EEA00934E96 /* RESTAccess.swift in Sources */,
 				38796CE91D8C617300934E96 /* EventsTableViewController.swift in Sources */,
 				9FA69C211DAED010009F2DC4 /* NameViewController.swift in Sources */,

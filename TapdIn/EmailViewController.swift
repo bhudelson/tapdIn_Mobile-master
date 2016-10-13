@@ -10,6 +10,9 @@ import UIKit
 
 class EmailViewController: UIViewController {
 
+    @IBOutlet weak var textEmail: UITextField!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
